@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 行走云端</title>
+    <link>https://helloweizhang.github.io/post/</link>
+    <description>Recent content in Posts on 行走云端</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://helloweizhang.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>【目录】搬瓦工VPS建站教程，0门槛，小白也可以轻松搭建自己的网站</title>
+      <link>https://helloweizhang.github.io/post/bwh88list/</link>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://helloweizhang.github.io/post/bwh88list/</guid>
+      <description>&lt;p&gt;蜜风网（www.beewinds.ml) 自成立以来，已经发布了上百篇搬瓦工的购买、使用等方方面面的教程了，为了方便大家查看本站的所有 蜜风网教程，特地建立一个搬瓦工的教程导航页面。教程主要分为购买、续费、退款，以及各种使用等几个方面，下面是详情。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【教程】01.如何购买搬瓦工VPS</title>
+      <link>https://helloweizhang.github.io/post/2020-01-01-bwh-how-to-buy/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://helloweizhang.github.io/post/2020-01-01-bwh-how-to-buy/</guid>
+      <description>&lt;p&gt;建站的第一步，选择适合自己的套餐来购买VPS.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>常见问题 FAQ</title>
+      <link>https://helloweizhang.github.io/post/2020-01-01-bwh-faq/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://helloweizhang.github.io/post/2020-01-01-bwh-faq/</guid>
+      <description>&lt;p&gt;常见问题汇总.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>2020年搬瓦工优惠信息和精选套餐</title>
+      <link>https://helloweizhang.github.io/post/bwh88/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://helloweizhang.github.io/post/bwh88/</guid>
+      <description>&lt;h1 id=&#34;vps4680&#34;&gt;搬瓦工VPS，低至46.80美元/年，支持支付宝、微信&lt;/h1&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
